@@ -1,6 +1,6 @@
 # Leetcode Solutions - From NeetCode 150
 
-### Contains Duplicate 
+<details><summary>### Contains Duplicate</summary>
 - Valid Anagram 
 - Two Sum 
 - Group Anagrams 
@@ -9,7 +9,7 @@
 - Product of Array Except Self 
 - Valid Sudoku 
 - Longest Consecutive Sequence
-
+</details>
 ### Two Pointers
 - Valid Palindrome	
 - Two Sum II Input Array Is Sorted	
