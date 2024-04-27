@@ -14,49 +14,71 @@
   </ul>
 </details>
 
-### Two Pointers
-- Valid Palindrome	
-- Two Sum II Input Array Is Sorted	
-- 3Sum	
-- Container With Most Water	
-- Trapping Rain Water
+<details>
+  <summary>Two Pointers</summary>
+  <ul>
+    <li>Valid Palindrome</li>
+    <li>Two Sum II Input Array Is Sorted</li>
+    <li>3Sum</li>
+    <li>Container With Most Water</li>
+    <li>Trapping Rain Water</li>
+  </ul>
+</details>
 
-### Sliding Window
-- Best Time to Buy And Sell Stock	
-- Longest Substring Without Repeating Characters	
-- Longest Repeating Character Replacement	
-- Permutation In String	
-- Minimum Window Substring	
-- Sliding Window Maximum
+<details>
+  <summary>Sliding Window</summary>
+  <ul>
+    <li>Best Time to Buy And Sell Stock</li>
+    <li>Longest Substring Without Repeating Characters</li>
+    <li>Longest Repeating Character Replacement</li>
+    <li>Permutation In String</li>
+    <li>Minimum Window Substring</li>
+    <li>Sliding Window Maximum</li>
+  </ul>
+</details>
 
-### Stack
-- Valid Parentheses	
-- Min Stack	
-- Evaluate Reverse Polish Notation	
-- Generate Parentheses	
-- Daily Temperatures	
-- Car Fleet	
-- Largest Rectangle In Histogram
-### Binary Search
-- Binary Search	
-- Search a 2D Matrix	
-- Koko Eating Bananas	
-- Find Minimum In Rotated Sorted Array	
-- Search In Rotated Sorted Array	
-- Time Based Key Value Store	
-- Median of Two Sorted Arrays
-### Linked List
-- Reverse Linked List	
-- Merge Two Sorted Lists	
-- Reorder List	
-- Remove Nth Node From End of List	
-- Copy List With Random Pointer	
-- Add Two Numbers	
-- Linked List Cycle	
-- Find The Duplicate Number	
-- LRU Cache	
-- Merge K Sorted Lists	
-- Reverse Nodes In K Group
+<details>
+  <summary>Stack</summary>
+  <ul>
+    <li>Valid Parentheses</li>
+    <li>Min Stack</li>
+    <li>Evaluate Reverse Polish Notation</li>
+    <li>Generate Parentheses</li>
+    <li>Daily Temperatures</li>
+    <li>Car Fleet</li>
+    <li>Largest Rectangle In Histogram</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Binary Search</summary>
+  <ul>
+    <li>Binary Search</li>
+    <li>Search a 2D Matrix</li>
+    <li>Koko Eating Bananas</li>
+    <li>Find Minimum In Rotated Sorted Array</li>
+    <li>Search In Rotated Sorted Array</li>
+    <li>Time Based Key Value Store</li>
+    <li>Median of Two Sorted Arrays</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Linked List</summary>
+  <ul>
+    <li>Reverse Linked List</li>
+    <li>Merge Two Sorted Lists</li>
+    <li>Reorder List</li>
+    <li>Remove Nth Node From End of List</li>
+    <li>Copy List With Random Pointer</li>
+    <li>Add Two Numbers</li>
+    <li>Linked List Cycle</li>
+    <li>Find The Duplicate Number</li>
+    <li>LRU Cache</li>
+    <li>Merge K Sorted Lists</li>
+    <li>Reverse Nodes In K Group</li>
+  </ul>
+</details>
 ### Trees
 - Invert Binary Tree	
 - Maximum Depth of Binary Tree	
