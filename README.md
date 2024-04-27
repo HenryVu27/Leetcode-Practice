@@ -10,6 +10,7 @@
 *Valid Sudoku 
 *Longest Consecutive Sequence
 </details>
+
 ### Two Pointers
 - Valid Palindrome	
 - Two Sum II Input Array Is Sorted	
