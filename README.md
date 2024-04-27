@@ -2,14 +2,16 @@
 
 <details>
   <summary>Contains Duplicate</summary>
-  Valid Anagram<br>
-  Two Sum<br>
-  Group Anagrams<br>
-  Top K Frequent Elements<br>
-  Encode and Decode Strings<br>
-  Product of Array Except Self<br>
-  Valid Sudoku<br>
-  Longest Consecutive Sequence
+  <ul>
+    <li>Valid Anagram</li>
+    <li>Two Sum</li>
+    <li>Group Anagrams</li>
+    <li>Top K Frequent Elements</li>
+    <li>Encode and Decode Strings</li>
+    <li>Product of Array Except Self</li>
+    <li>Valid Sudoku</li>
+    <li>Longest Consecutive Sequence</li>
+  </ul>
 </details>
 
 ### Two Pointers
