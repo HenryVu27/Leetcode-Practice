@@ -1,14 +1,15 @@
 # Leetcode Solutions - From NeetCode 150
 
-<details><summary>Contains Duplicate</summary>
-* Valid Anagram 
-* Two Sum 
-* Group Anagrams 
-* Top K Frequent Elements 
-* Encode and Decode Strings 
-* Product of Array Except Self 
-* Valid Sudoku 
-* Longest Consecutive Sequence
+<details>
+  <summary>Contains Duplicate</summary>
+  Valid Anagram<br>
+  Two Sum<br>
+  Group Anagrams<br>
+  Top K Frequent Elements<br>
+  Encode and Decode Strings<br>
+  Product of Array Except Self<br>
+  Valid Sudoku<br>
+  Longest Consecutive Sequence
 </details>
 
 ### Two Pointers
