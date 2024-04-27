@@ -79,30 +79,41 @@
     <li>Reverse Nodes In K Group</li>
   </ul>
 </details>
-### Trees
-- Invert Binary Tree	
-- Maximum Depth of Binary Tree	
-- Diameter of Binary Tree	
-- Balanced Binary Tree	
-- Same Tree	
-- Subtree of Another Tree	
-- Lowest Common Ancestor of a Binary Search Tree	
-- Binary Tree Level Order Traversal	
-- Binary Tree Right Side View	
-- Count Good Nodes In Binary Tree	
-- Validate Binary Search Tree	
-- Kth Smallest Element In a Bst	
-- Construct Binary Tree From Preorder And Inorder Traversal	
-- Binary Tree Maximum Path Sum	
-- Serialize And Deserialize Binary Tree
-### Heap/Priority Queue
-- Kth Largest Element In a Stream	
-- Last Stone Weight	
-- K Closest Points to Origin	
-- Kth Largest Element In An Array	
-- Task Scheduler	
-- Design Twitter	
-- Find Median From Data Stream
+
+<details>
+  <summary>Trees</summary>
+  <ul>
+    <li>Invert Binary Tree</li>
+    <li>Maximum Depth of Binary Tree</li>
+    <li>Diameter of Binary Tree</li>
+    <li>Balanced Binary Tree</li>
+    <li>Same Tree</li>
+    <li>Subtree of Another Tree</li>
+    <li>Lowest Common Ancestor of a Binary Search Tree</li>
+    <li>Binary Tree Level Order Traversal</li>
+    <li>Binary Tree Right Side View</li>
+    <li>Count Good Nodes In Binary Tree</li>
+    <li>Validate Binary Search Tree</li>
+    <li>Kth Smallest Element In a Bst</li>
+    <li>Construct Binary Tree From Preorder And Inorder Traversal</li>
+    <li>Binary Tree Maximum Path Sum</li>
+    <li>Serialize And Deserialize Binary Tree</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Heap/Priority Queue</summary>
+  <ul>
+    <li>Kth Largest Element In a Stream</li>
+    <li>Last Stone Weight</li>
+    <li>K Closest Points to Origin</li>
+    <li>Kth Largest Element In An Array</li>
+    <li>Task Scheduler</li>
+    <li>Design Twitter</li>
+    <li>Find Median From Data Stream</li>
+  </ul>
+</details>
+
 ### Backtracking
 - Subsets	
 - Combination Sum	
