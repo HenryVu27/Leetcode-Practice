@@ -1,8 +1,9 @@
 # Leetcode Solutions - From NeetCode 150
 
 <details>
-  <summary>Contains Duplicate</summary>
+  <summary>Arrays & Hashing</summary>
   <ul>
+    <li>Contains Duplicate</li>
     <li>Valid Anagram</li>
     <li>Two Sum</li>
     <li>Group Anagrams</li>
