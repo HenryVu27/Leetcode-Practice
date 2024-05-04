@@ -128,8 +128,16 @@
 <li>N Queens</li>
 </ul>
 </details>
+
 <details>
-  
+<summary>Tries</summary>
+<ul>
+<li>Implement Trie Prefix Tree</li>
+<li>Design Add And Search Words Data Structure</li>
+<li>Word Search II</li>
+</ul>
+</details>
+
 ### Graphs
 -Number of Islands	
 -Max Area of Island	
