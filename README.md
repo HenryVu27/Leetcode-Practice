@@ -157,13 +157,18 @@
 </ul>
 </details>
 
-### Advanced Graphs 
-- Reconstruct Itinerary	
-- Min Cost to Connect All Points	
-- Network Delay Time	
-- Swim In Rising Water	
-- Alien Dictionary   	
-- Cheapest Flights Within K Stops
+<details>
+<summary>Advanced Graphs</summary>
+<ul>
+<li>Reconstruct Itinerary</li>
+<li>Min Cost to Connect All Points</li>
+<li>Network Delay Time</li>
+<li>Swim In Rising Water</li>
+<li>Alien Dictionary</li>
+<li>Cheapest Flights Within K Stops</li>
+</ul>
+</details>
+
 ### 1-D Dynamic Programming
 - Climbing Stairs	
 - Min Cost Climbing Stairs	
