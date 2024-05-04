@@ -138,20 +138,25 @@
 </ul>
 </details>
 
-### Graphs
--Number of Islands	
--Max Area of Island	
-- Clone Graph	
-- Walls And Gates   	
-- Rotting Oranges	
-- Pacific Atlantic Water Flow	
-- Surrounded Regions	
-- Course Schedule	
-- Course Schedule II	
-- Graph Valid Tree   	
-- Number of Connected Components In An Undirected Graph   	
-- Redundant Connection	
-- Word Ladder
+<details>
+<summary>Graphs</summary>
+<ul>
+<li>Number of Islands</li>
+<li>Max Area of Island</li>
+<li>Clone Graph</li>
+<li>Walls And Gates</li>
+<li>Rotting Oranges</li>
+<li>Pacific Atlantic Water Flow</li>
+<li>Surrounded Regions</li>
+<li>Course Schedule</li>
+<li>Course Schedule II</li>
+<li>Graph Valid Tree</li>
+<li>Number of Connected Components In An Undirected Graph</li>
+<li>Redundant Connection</li>
+<li>Word Ladder</li>
+</ul>
+</details>
+
 ### Advanced Graphs 
 - Reconstruct Itinerary	
 - Min Cost to Connect All Points	
