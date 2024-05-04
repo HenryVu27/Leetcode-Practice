@@ -114,20 +114,22 @@
   </ul>
 </details>
 
-### Backtracking
-- Subsets	
-- Combination Sum	
-- Permutations	
-- Subsets II	
-- Combination Sum II	
-- Word Search	
-- Palindrome Partitioning	
-- Letter Combinations of a Phone Number	
-- N Queens
-### Tries
-- Implement Trie Prefix Tree	
-- Design Add And Search Words Data Structure	
-- Word Search II
+<details>
+<summary>Backtracking</summary>
+<ul>
+<li>Subsets</li>
+<li>Combination Sum</li>
+<li>Permutations</li>
+<li>Subsets II</li>
+<li>Combination Sum II</li>
+<li>Word Search</li>
+<li>Palindrome Partitioning</li>
+<li>Letter Combinations of a Phone Number</li>
+<li>N Queens</li>
+</ul>
+</details>
+<details>
+  
 ### Graphs
 -Number of Islands	
 -Max Area of Island	
