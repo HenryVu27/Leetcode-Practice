@@ -219,13 +219,18 @@
 </ul>
 </details>
 
-### Intervals
-- Insert Interval	
-- Merge Intervals	
-- Non Overlapping Intervals	
-- Meeting Rooms   	
-- Meeting Rooms II   	
-- Minimum Interval to Include Each Query
+<details>
+<summary>Intervals</summary>
+<ul>
+<li>Insert Interval</li>
+<li>Merge Intervals</li>
+<li>Non Overlapping Intervals</li>
+<li>Meeting Rooms</li>
+<li>Meeting Rooms II</li>
+<li>Minimum Interval to Include Each Query</li>
+</ul>
+</details>
+
 ### Math & Geometry
 - Rotate Image	
 - Spiral Matrix	
