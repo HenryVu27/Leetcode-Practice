@@ -245,11 +245,15 @@
 </ul>
 </details>
 
-### Bit Manipulation
-- Single Number	
-- Number of 1 Bits	
-- Counting Bits	
-- Reverse Bits	
-- Missing Number	
-- Sum of Two Integers	
-- Reverse Integer
+<details>
+<summary>Bit Manipulation</summary>
+<ul>
+<li>Single Number</li>
+<li>Number of 1 Bits</li>
+<li>Counting Bits</li>
+<li>Reverse Bits</li>
+<li>Missing Number</li>
+<li>Sum of Two Integers</li>
+<li>Reverse Integer</li>
+</ul>
+</details>
