@@ -170,19 +170,24 @@
 </ul>
 </details>
 
-### 1-D Dynamic Programming
-- Climbing Stairs	
-- Min Cost Climbing Stairs	
-- House Robber	
-- House Robber II	
-- Longest Palindromic Substring	
-- Palindromic Substrings	
-- Decode Ways	
-- Coin Change	
-- Maximum Product Subarray	
-- Word Break	
-- Longest Increasing Subsequence	
-- Partition Equal Subset Sum
+<details>
+<summary>1-D Dynamic Programming</summary>
+<ul>
+<li>Climbing Stairs</li>
+<li>Min Cost Climbing Stairs</li>
+<li>House Robber</li>
+<li>House Robber II</li>
+<li>Longest Palindromic Substring</li>
+<li>Palindromic Substrings</li>
+<li>Decode Ways</li>
+<li>Coin Change</li>
+<li>Maximum Product Subarray</li>
+<li>Word Break</li>
+<li>Longest Increasing Subsequence</li>
+<li>Partition Equal Subset Sum</li>
+</ul>
+</details>
+
 ### 2-D Dynamic Programming
 - Unique Paths	
 - Longest Common Subsequence	
