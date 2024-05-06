@@ -231,15 +231,20 @@
 </ul>
 </details>
 
-### Math & Geometry
-- Rotate Image	
-- Spiral Matrix	
-- Set Matrix Zeroes	
-- Happy Number	
-- Plus One	
-- Pow(x, n)	
-- Multiply Strings	
-- Detect Squares
+<details>
+<summary>Math & Geometry</summary>
+<ul>
+<li>Rotate Image</li>
+<li>Spiral Matrix</li>
+<li>Set Matrix Zeroes</li>
+<li>Happy Number</li>
+<li>Plus One</li>
+<li>Pow(x, n)</li>
+<li>Multiply Strings</li>
+<li>Detect Squares</li>
+</ul>
+</details>
+
 ### Bit Manipulation
 - Single Number	
 - Number of 1 Bits	
