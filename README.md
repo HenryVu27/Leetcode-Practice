@@ -188,18 +188,23 @@
 </ul>
 </details>
 
-### 2-D Dynamic Programming
-- Unique Paths	
-- Longest Common Subsequence	
-- Best Time to Buy And Sell Stock With Cooldown	
-- Coin Change II	
-- Target Sum	
-- Interleaving String	
-- Longest Increasing Path In a Matrix	
-- Distinct Subsequences	
-- Edit Distance	
-- Burst Balloons	
-- Regular Expression Matching	
+<details>
+<summary>2-D Dynamic Programming</summary>
+<ul>
+<li>Unique Paths</li>
+<li>Longest Common Subsequence</li>
+<li>Best Time to Buy And Sell Stock With Cooldown</li>
+<li>Coin Change II</li>
+<li>Target Sum</li>
+<li>Interleaving String</li>
+<li>Longest Increasing Path In a Matrix</li>
+<li>Distinct Subsequences</li>
+<li>Edit Distance</li>
+<li>Burst Balloons</li>
+<li>Regular Expression Matching</li>
+</ul>
+</details>
+
 ### Greedy
 - Maximum Subarray	
 - Jump Game	
