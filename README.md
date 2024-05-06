@@ -205,15 +205,20 @@
 </ul>
 </details>
 
-### Greedy
-- Maximum Subarray	
-- Jump Game	
-- Jump Game II	
-- Gas Station	
-- Hand of Straights	
-- Merge Triplets to Form Target Triplet	
-- Partition Labels	
-- Valid Parenthesis String
+<details>
+<summary>Greedy</summary>
+<ul>
+<li>Maximum Subarray</li>
+<li>Jump Game</li>
+<li>Jump Game II</li>
+<li>Gas Station</li>
+<li>Hand of Straights</li>
+<li>Merge Triplets to Form Target Triplet</li>
+<li>Partition Labels</li>
+<li>Valid Parenthesis String</li>
+</ul>
+</details>
+
 ### Intervals
 - Insert Interval	
 - Merge Intervals	
