@@ -1,5 +1,5 @@
 class Solution(object):
-    def isAnagram(self, s):
+    def isPalindrome(self, s):
         """
         :type s: str
         :type t: str
@@ -21,5 +21,5 @@ class Solution(object):
 if __name__ == "__main__":
     solution = Solution()
     s = "abba"
-    result = solution.isAnagram(s)
+    result = solution.isPalindrome(s)
     print(result)
