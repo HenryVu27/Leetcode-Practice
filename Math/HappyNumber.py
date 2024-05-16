@@ -15,6 +15,6 @@ class Solution(object):
     
 if __name__ == "__main__":
     solution = Solution()
-    n = 120
+    n = 19
     result = solution.isHappy(n)
     print(result)
