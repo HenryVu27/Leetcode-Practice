@@ -1,5 +1,5 @@
 class Solution(object):
-    def isHappy(self, digits):
+    def plusOne(self, digits):
         """
         :type n: int
         :rtype: bool
@@ -16,5 +16,5 @@ class Solution(object):
 if __name__ == "__main__":
     solution = Solution()
     digits = [3,9,0,9]
-    result = solution.isHappy(digits)
+    result = solution.plusOne(digits)
     print(result)
