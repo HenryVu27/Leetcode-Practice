@@ -5,20 +5,11 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        fs = {}
-        for i in s:
-            if i not in fs:
-                fs[i] = 1
-            else:
-                fs[i] += 1
-        for i in t:
-            if i not in fs:
-                return False
-            if i in fs:
-                fs[i] -= 1
-                if fs[i] == 0:
-                    del fs[i]
-        if len(fs) == 0:
+        s = [char for char in s]
+        t = [char for char in t]
+        s.sort()
+        t.sort()
+        if s == t:
             return True
         return False
             
