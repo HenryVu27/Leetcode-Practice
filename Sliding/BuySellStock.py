@@ -2,19 +2,19 @@ class Solution(object):
     def maxProfit(self, prices):
         r = 1
         l = 0
+        prof = 0
         if len(prices) == 1:
             return 0
-        for i in range(len(prices)-1):
-            if prices[i] > prices[i+1]:
-                l += 1
-                r += 1
+        while r < len(prices):
+            if prices[l] < prices[r]:
+                prof = max(prof, prices[r] - prices[l])
             else:
-                r += 1
-        prof = prices[r] - prices[l]
+                l = r
+            r += 1        
         return prof
     
 if __name__ == "__main__":
     solution = Solution()
-    
-    result = solution.maxProfit(x, n)
+    prices = [2,4,1]
+    result = solution.maxProfit(prices)
     print(result)
