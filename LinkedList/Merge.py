@@ -9,5 +9,19 @@ class Solution(object):
         :type list2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        
+        ans = ListNode()
+        move = ans
+        while list1 and list2:
+            if list1.val < list2.val:
+                move.next = list1
+                list1 = list1.next
+            else:
+                move.next = list2
+                list2 = list2.next
+            move = move.next
+        if list1:
+            move.next = list1
+        else:
+            move.next = list2
+        return ans.next
         
