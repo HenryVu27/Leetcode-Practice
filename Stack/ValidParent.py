@@ -14,12 +14,13 @@ class Solution(object):
                     return False
             else:
                 stack.append(i)
-        return True
+        if stack: return False
+        return True if not stack else False
             
         
     
 if __name__ == "__main__":
     solution = Solution()
-    s = "({{{}}})"
+    s = "()"
     result = solution.isValid(s)
     print(result)
